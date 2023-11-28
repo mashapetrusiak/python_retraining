@@ -1,4 +1,4 @@
-from first_task import to_hours
+from hw_1.first_task import to_hours
 import pytest
 
 

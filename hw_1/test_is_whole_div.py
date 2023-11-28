@@ -1,4 +1,4 @@
-from first_task import is_whole_div
+from hw_1.first_task import is_whole_div
 import pytest
 
 
